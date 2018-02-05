@@ -22,10 +22,10 @@ public class MyViewL1 extends UserView {
     @Override
     protected void paintBackground(Graphics2D g) {
         ImageIcon icon;
-        icon = new ImageIcon("images/coruscant.jpg");
+        icon = new ImageIcon("images/Coruscant.jpg");
 
         ImageIcon icon2;
-        icon2 = new ImageIcon("images/kamino.jpg");
+        icon2 = new ImageIcon("images/Kamino.jpg");
 
         ImageIcon icon3;
         icon3 = new ImageIcon("images/geonosis.jpg");
